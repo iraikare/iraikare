@@ -32,7 +32,7 @@
 
 
 
-## Minhas redes sociais
+## Da pra falar comigo por aqui
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>](mailto:iraikare1810@gmail.com)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>](https://www.instagram.com/iraikare/)
