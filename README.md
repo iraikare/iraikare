@@ -31,6 +31,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40"/>
 
 ## Repositórios importantes
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iraikare&repo=B99-Site&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iraikare&repo=Zombie-and-Morty-pygame&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iraikare&repo=Projeto-wpf&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
