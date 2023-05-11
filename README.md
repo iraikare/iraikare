@@ -15,10 +15,10 @@
  <h2>Sobre mim</h2>
 <img align="right" src="https://github.com/iraikare/iraikare/assets/101957823/8f84c13c-62cf-458e-b3aa-82f6db8ba32c" width="350px"/> 
  <ul>
-  <li>Meu nome é iraikare Rodrigues</li>
-  <li>Eu tenho 17 anos</li>
-  <li>Sou uma programadora em desenvolvimento</li>
-  <li>Atualmente curso INFOWEB no IFRN</li>
+   <li>😽 Eu sou a irai</li>
+  <li>📆 Eu tenho 17 anos</li>
+  <li>👀 Sou uma programadora em desenvolvimento</li>
+  <li>🎉 Atualmente curso INFOWEB no IFRN</li>
  </ul>
 </div> 
  
