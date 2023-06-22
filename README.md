@@ -1,4 +1,4 @@
-# oi! meu nome é iraikare :)
+# olá! meu nome é iraikare :)
 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iraikare&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -15,7 +15,7 @@
  <h2>Sobre mim</h2>
 <img align="right" src="https://github.com/iraikare/iraikare/assets/101957823/8f84c13c-62cf-458e-b3aa-82f6db8ba32c" width="350px"/> 
  <ul>
-   <li>😽 Eu sou a irai</li>
+   <li>😽 oioi, podem me chamar de irai</li>
   <li>📆 tenho 17 anos</li>
   <li>👀 Sou uma programadora em desenvolvimento</li>
   <li>🎉 Atualmente curso INFOWEB no IFRN</li>
