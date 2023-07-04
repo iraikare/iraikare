@@ -3,7 +3,7 @@
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iraikare&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iraikare&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
-<div style="display: flex; flex-direction: row;">
+<!--<div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=iraikare&show_icons=true&theme=radical&count_private=true" width="450px" />
  <img align="right" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraikare&theme=radical&layout=compact" width="350px"  />
 </div>
