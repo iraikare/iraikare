@@ -24,15 +24,15 @@
 <h2 >Tecnologias </h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-<img src="https://github.com/user-attachments/assets/5d438dd9-5ca7-4e2c-8883-be03de169252" height="40"/>
-<img src="https://github.com/user-attachments/assets/1d3f3aef-6c79-4b31-82e0-5f946db40f50" height="40"/>
-<img src="https://github.com/user-attachments/assets/8adadb7b-093f-4fbe-8bd6-274ed8aa35db" height="40"/>
-<img src="https://github.com/user-attachments/assets/f19e951c-a6e1-416b-a15a-4e7214e9b394" height="40"/>
-<img src="https://github.com/user-attachments/assets/49b1a37c-8a2a-47b4-99af-2e8574cb6c8c" height="40"/>
-<img src="https://github.com/user-attachments/assets/2bee19f8-d88a-4dfb-b214-c97e00ad3ef0" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30"/>
+<img src="https://github.com/user-attachments/assets/5d438dd9-5ca7-4e2c-8883-be03de169252" height="30"/>
+<img src="https://github.com/user-attachments/assets/1d3f3aef-6c79-4b31-82e0-5f946db40f50" height="30"/>
+<img src="https://github.com/user-attachments/assets/8adadb7b-093f-4fbe-8bd6-274ed8aa35db" height="30"/>
+<img src="https://github.com/user-attachments/assets/f19e951c-a6e1-416b-a15a-4e7214e9b394" height="30"/>
+<img src="https://github.com/user-attachments/assets/49b1a37c-8a2a-47b4-99af-2e8574cb6c8c" height="30"/>
+<img src="https://github.com/user-attachments/assets/2bee19f8-d88a-4dfb-b214-c97e00ad3ef0" height="30"/>
 
 
 ## Fale comigo por aqui:
