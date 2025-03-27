@@ -33,7 +33,7 @@
 <img src="https://github.com/user-attachments/assets/f19e951c-a6e1-416b-a15a-4e7214e9b394" height="30"/>
 <img src="https://github.com/user-attachments/assets/49b1a37c-8a2a-47b4-99af-2e8574cb6c8c" height="30"/>
 <img src="https://github.com/user-attachments/assets/2bee19f8-d88a-4dfb-b214-c97e00ad3ef0" height="30"/>
-
+<img src="https://github.com/user-attachments/assets/41af5281-a091-4ccc-bb71-aee9c07c5264" height="30"/>
 
 ## Fale comigo por aqui:
 
