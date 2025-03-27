@@ -15,10 +15,10 @@
  <h2>Sobre mim</h2>
 <img align="right" src="https://github.com/iraikare/iraikare/assets/101957823/8f84c13c-62cf-458e-b3aa-82f6db8ba32c" width="350px"/> 
  <ul>
-   <li>😽 oioi, podem me chamar de irai</li>
-  <li>📆 tenho 18 anos</li>
-  <li>👀 Atualmente trabalho como desenvolvedora web</li>
-  <li>🎉 Estou no último ano de INFOWEB no IFRN</li>
+   <li>🤝 Olá, podem me chamar de irai</li>
+  <li>📆 tenho 19 anos</li>
+  <li>👩‍🎓 Sou técnica em INFOWEB pelo IFRN</li>
+  <li>👩‍💻 Sou Graduanda em BTI pela UFRN</li>
  </ul>
 </div> 
  
