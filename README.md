@@ -11,7 +11,7 @@
 <!-- ![github-gif](https://github.com/iraikare/iraikare/assets/101957823/8f84c13c-62cf-458e-b3aa-82f6db8ba32c) -->
 
 <div>
- <h2 border-bottom="none !important">Sobre mim</h2>
+ <h2>Sobre mim</h2>
 <img align="right" src="https://github.com/iraikare/iraikare/assets/101957823/8f84c13c-62cf-458e-b3aa-82f6db8ba32c" width="350px"/> 
  <ul>
    <li>🤝 Olá, podem me chamar de irai</li>
@@ -21,7 +21,7 @@
  </ul>
 </div> 
  
-## Tecnologias 
+<h2 >Tecnologias </h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
